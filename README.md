@@ -27,15 +27,15 @@ Gráfico de barras representando a média de idade por curso, ajudando a entende
 ## Análise financeira
 Percentual de faturamento por curso: Exibição do faturamento de cada curso como porcentagem do total. A visualização também indica a média geral de faturamento por categoria.
 
-# Visualização
+## Visualização
 
 O dashboard utiliza gráficos de barras horizontais e verticais para facilitar a comparação entre diferentes categorias e cursos.
 Elementos visuais como cores destacadas são utilizados para chamar atenção para indicadores importantes.
 A interface é organizada de maneira intuitiva, com divisões claras para cada seção de informação.
 
-# Navegação
+## Navegação
 O usuário pode navegar entre diferentes páginas do dashboard utilizando controles na parte superior direita da interface.
 A estrutura do layout é projetada para permitir fácil compreensão e análise detalhada dos dados acadêmicos e financeiros.
 
-# Objetivo
+## Objetivo
 Este dashboard serve como uma ferramenta de suporte para a administração da instituição de ensino, auxiliando na tomada de decisões estratégicas relacionadas a finanças, retenção de alunos e perfil demográfico dos cursos
